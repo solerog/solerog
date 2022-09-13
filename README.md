@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roger Solé Sotillo</h1>
-<h3 align="center">A passionate programmer from Barcelona</h3>
+<h1>Hi 👋, I'm Roger Solé Sotillo</h1>
+<h3>A passionate programmer from Barcelona</h3>
+
+
 
 - 🔭 I’m currently working on **Machine and Deep Learning projects using Scikit and Keras**
 
